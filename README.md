@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rksharma007
-- 👀 I’m interested in ML, DSA, Web Development MERN Satck & Hardware Implementation of projects.
+- 👀 I’m interested in Web Development - MERN Satck, ML, DSA & Hardware Implementation of projects.
 - 🌱 I’m currently learning ML, DSA & Web Development.
-- 💞️ I’m looking to collaborate on ML & Web Development projects.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 Contact me on - ravikantsharma635@gmail.com
 
 <!---
