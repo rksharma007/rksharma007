@@ -1,5 +1,5 @@
 - # Hi, I’m R K Sharma <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-- 👀 I’m interested in Web Development - MERN Satck, ML, DSA & IoT projects.
+- 👀 I’m interested in Web Development - MERN Satck, SpringBoot, ML, DSA & IoT projects.
 - 💞️ I’m looking to collaborate on Full-Stack Development projects.
 - 📫 Contact me on - ravikantsharma635@gmail.com
 
