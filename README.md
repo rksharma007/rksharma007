@@ -77,7 +77,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-ravi-kant-sharma-a37924200-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ravi-kant-sharma-a37924200/)](https://www.linkedin.com/in/ravi-kant-sharma-a37924200)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kant-sharma-a37924200)
 [![Instagram Badge](https://img.shields.io/badge/-rksharma3837-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rksharma3837/)](https://instagram.com/rksharma3837)
 [![Gmail Badge](https://img.shields.io/badge/-ravikantsharma635@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravikantsharma635@gmail.com)](mailto:ravikantsharma635@gmail.com)
 
